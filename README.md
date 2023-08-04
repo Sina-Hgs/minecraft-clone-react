@@ -1,6 +1,7 @@
 # React Minecraft Clone
 
 This a clone of **Minecraft** videogame, made with React & Three JS.
+If you want to play it, download the code and run a script from below.
 
 _Made with:_
 
